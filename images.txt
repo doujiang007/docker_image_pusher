@@ -1,2 +1,2 @@
 nginx
-vesoft/nebula-graph
+nebula-graph
